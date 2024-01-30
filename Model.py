@@ -39,7 +39,7 @@ mtcnn.detect_box = MethodType(detect_box, mtcnn)
 known_distances = []
 
 ### load known faces
-saved_pictures = "/home/vishy/Projects/Attendance/C3_Members/"
+saved_pictures = "/home/vishy/Documents/Attendance-Portal/C3_Members/"
 all_people_faces = {}
 
 # Define detection frequency
